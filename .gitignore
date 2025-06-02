@@ -1,7 +1,11 @@
+# cache
+.DS_Store
+src/__pycache__
+
+# env
+.python-version
 venv
 
-.python-version
-
 # dir
-src/__pycache__
 data
+output

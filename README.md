@@ -4,6 +4,7 @@ Project for SMBC 2025.
 
 # Project Structure
 
+```
 .
 ├── .gitignore
 ├── README.md
@@ -19,3 +20,4 @@ Project for SMBC 2025.
 │   └── config.py
 └── venv
     └── ...
+```

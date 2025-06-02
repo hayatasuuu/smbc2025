@@ -1,3 +1,7 @@
 venv
-.signate
+
 .python-version
+
+# dir
+src/__pycache__
+data

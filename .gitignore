@@ -9,3 +9,6 @@ venv
 # dir
 data
 output
+
+# file
+memo.md

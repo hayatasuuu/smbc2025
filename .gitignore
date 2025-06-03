@@ -12,3 +12,9 @@ output
 
 # file
 memo.md
+
+# src（コンペ終了まで）
+src/*
+!src/001_*.ipynb
+!src/config.py
+!src/tutorial.ipynb
